@@ -138,11 +138,11 @@
                         <p class="text-gray-400 mb-4">(picanha, arroz branco, tropeiro, maionese e fritas)</p>
                         <div class="flex justify-between items-center">
                             <div>
-                                <p class="text-red-500 font-semibold">Meia: R$ 120,00</p>
+                                <p class="text-red-500 font-semibold">Meia: R$ 140,00</p>
                                 <p class="text-red-500 font-semibold">Completa: R$ 180,00</p>
                             </div>
                             <div class="flex space-x-2">
-                                <button onclick="addToCart('CHURRASCO COMPLETO C/ PICANHA - Meia', 120.00)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Meia</button>
+                                <button onclick="addToCart('CHURRASCO COMPLETO C/ PICANHA - Meia', 140.00)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Meia</button>
                                 <button onclick="addToCart('CHURRASCO COMPLETO C/ PICANHA - Completa', 180.00)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Completa</button>
                             </div>
                         </div>
@@ -156,11 +156,11 @@
                         <p class="text-gray-400 mb-4">(arroz, purê de batatas ou fritas)</p>
                         <div class="flex justify-between items-center">
                             <div>
-                                <p class="text-red-500 font-semibold">Meia: R$ 110,00</p>
+                                <p class="text-red-500 font-semibold">Meia: R$ 100,00</p>
                                 <p class="text-red-500 font-semibold">Completa: R$ 120,00</p>
                             </div>
                             <div class="flex space-x-2">
-                                <button onclick="addToCart('FILÉ À PARMEGIANA - Meia', 110.00)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Meia</button>
+                                <button onclick="addToCart('FILÉ À PARMEGIANA - Meia', 100.00)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Meia</button>
                                 <button onclick="addToCart('FILÉ À PARMEGIANA - Completa', 120.00)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Completa</button>
                             </div>
                         </div>
@@ -174,12 +174,12 @@
                         <p class="text-gray-400 mb-4">(arroz branco, purê de batatas ou fritas)</p>
                         <div class="flex justify-between items-center">
                             <div>
-                                <p class="text-red-500 font-semibold">Meia: R$ 110,00</p>
-                                <p class="text-red-500 font-semibold">Completa: R$ 130,00</p>
+                                <p class="text-red-500 font-semibold">Meia: R$00,00</p>
+                                <p class="text-red-500 font-semibold">Completa: R$ 00,00</p>
                             </div>
                             <div class="flex space-x-2">
-                                <button onclick="addToCart('FILÉ DE SURUBIM À PARMEGIANA - Meia', 110.00)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Meia</button>
-                                <button onclick="addToCart('FILÉ DE SURUBIM À PARMEGIANA - Completa', 130.00)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Completa</button>
+                                <button onclick="addToCart('FILÉ DE SURUBIM À PARMEGIANA - Meia', 00.00)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Meia</button>
+                                <button onclick="addToCart('FILÉ DE SURUBIM À PARMEGIANA - Completa', 00.00)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Completa</button>
                             </div>
                         </div>
                     </div>
@@ -192,12 +192,12 @@
                         <p class="text-gray-400 mb-4">(arroz grego e salada)</p>
                         <div class="flex justify-between items-center">
                             <div>
-                                <p class="text-red-500 font-semibold">Meia: R$ 100,00</p>
-                                <p class="text-red-500 font-semibold">Completa: R$ 120,00</p>
+                                <p class="text-red-500 font-semibold">Meia: R$00,00</p>
+                                <p class="text-red-500 font-semibold">Completa: R$ 00,00</p>
                             </div>
                             <div class="flex space-x-2">
-                                <button onclick="addToCart('FILÉ DE SURUBIM À MILANESA - Meia', 100.00)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Meia</button>
-                                <button onclick="addToCart('FILÉ DE SURUBIM À MILANESA - Completa', 120.00)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Completa</button>
+                                <button onclick="addToCart('FILÉ DE SURUBIM À MILANESA - Meia', 00.00)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Meia</button>
+                                <button onclick="addToCart('FILÉ DE SURUBIM À MILANESA - Completa', 00.00)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Completa</button>
                             </div>
                         </div>
                     </div>
@@ -210,10 +210,10 @@
                         <p class="text-gray-400 mb-4">(surubim, arroz e pirão)</p>
                         <div class="flex justify-between items-center">
                             <div>
-                                <p class="text-red-500 font-semibold">Completa: R$ 180,00</p>
+                                <p class="text-red-500 font-semibold">Completa: R$ 00,00</p>
                             </div>
                             <div class="flex space-x-2">
-                                <button onclick="addToCart('MUQUECA DE SURUBIM - Completa', 180.00)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Completa</button>
+                                <button onclick="addToCart('MUQUECA DE SURUBIM - Completa', 00.00)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Completa</button>
                             </div>
                         </div>
                     </div>
@@ -232,11 +232,11 @@
                         <h3 class="text-xl font-bold text-white mb-2">Carne de Sol c/ Mandioca ou Fritas</h3>
                         <div class="flex justify-between items-center">
                             <div>
-                                <p class="text-red-500 font-semibold">Meia: R$ 59,90</p>
+                                <p class="text-red-500 font-semibold">Meia: R$ 58,90</p>
                                 <p class="text-red-500 font-semibold">Completa: R$ 68,90</p>
                             </div>
                             <div class="flex space-x-2">
-                                <button onclick="addToCart('Carne de Sol c/ Mandioca ou Fritas - Meia', 59.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Meia</button>
+                                <button onclick="addToCart('Carne de Sol c/ Mandioca ou Fritas - Meia', 58.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Meia</button>
                                 <button onclick="addToCart('Carne de Sol c/ Mandioca ou Fritas - Completa', 68.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Completa</button>
                             </div>
                         </div>
@@ -267,12 +267,12 @@
                         <h3 class="text-xl font-bold text-white mb-2">Frango à Passarinho</h3>
                         <div class="flex justify-between items-center">
                             <div>
-                                <p class="text-red-500 font-semibold">Meia: R$ 44,90</p>
-                                <p class="text-red-500 font-semibold">Completa: R$ 54,90</p>
+                                <p class="text-red-500 font-semibold">Meia: R$ 00,00</p>
+                                <p class="text-red-500 font-semibold">Completa: R$ 00,00</p>
                             </div>
                             <div class="flex space-x-2">
-                                <button onclick="addToCart('Frango à Passarinho - Meia', 44.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Meia</button>
-                                <button onclick="addToCart('Frango à Passarinho - Completa', 54.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Completa</button>
+                                <button onclick="addToCart('Frango à Passarinho - Meia', 00.00)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Meia</button>
+                                <button onclick="addToCart('Frango à Passarinho - Completa', 00.00)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Completa</button>
                             </div>
                         </div>
                     </div>
@@ -291,12 +291,12 @@
                         <h3 class="text-xl font-bold text-white mb-2">Fritas</h3>
                         <div class="flex justify-between items-center">
                             <div>
-                                <p class="text-red-500 font-semibold">Meia: R$ 25,00</p>
-                                <p class="text-red-500 font-semibold">Completa: R$ 30,00</p>
+                                <p class="text-red-500 font-semibold">Meia: R$ 28,00</p>
+                                <p class="text-red-500 font-semibold">Completa: R$ 39,90</p>
                             </div>
                             <div class="flex space-x-2">
-                                <button onclick="addToCart('Fritas - Meia', 25.00)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Meia</button>
-                                <button onclick="addToCart('Fritas - Completa', 30.00)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Completa</button>
+                                <button onclick="addToCart('Fritas - Meia', 28.00)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Meia</button>
+                                <button onclick="addToCart('Fritas - Completa', 39.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Completa</button>
                             </div>
                         </div>
                     </div>
@@ -309,11 +309,11 @@
                         <div class="flex justify-between items-center">
                             <div>
                                 <p class="text-red-500 font-semibold">Meia: R$ 39,90</p>
-                                <p class="text-red-500 font-semibold">Completa: R$ 48,90</p>
+                                <p class="text-red-500 font-semibold">Completa: R$ 54,50</p>
                             </div>
                             <div class="flex space-x-2">
                                 <button onclick="addToCart('Fritas c/ Mussarela - Meia', 39.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Meia</button>
-                                <button onclick="addToCart('Fritas c/ Mussarela - Completa', 48.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Completa</button>
+                                <button onclick="addToCart('Fritas c/ Mussarela - Completa', 54.50)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Completa</button>
                             </div>
                         </div>
                     </div>
@@ -325,12 +325,12 @@
                         <h3 class="text-xl font-bold text-white mb-2">Fritas Especial c/ mussarela e bacon</h3>
                         <div class="flex justify-between items-center">
                             <div>
-                                <p class="text-red-500 font-semibold">Meia: R$ 39,90</p>
-                                <p class="text-red-500 font-semibold">Completa: R$ 48,90</p>
+                                <p class="text-red-500 font-semibold">Meia: R$ 42,90</p>
+                                <p class="text-red-500 font-semibold">Completa: R$ 54,90</p>
                             </div>
                             <div class="flex space-x-2">
-                                <button onclick="addToCart('Fritas Especial c/ mussarela e bacon - Meia', 39.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Meia</button>
-                                <button onclick="addToCart('Fritas Especial c/ mussarela e bacon - Completa', 48.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Completa</button>
+                                <button onclick="addToCart('Fritas Especial c/ mussarela e bacon - Meia', 42.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Meia</button>
+                                <button onclick="addToCart('Fritas Especial c/ mussarela e bacon - Completa', 54.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Completa</button>
                             </div>
                         </div>
                     </div>
@@ -343,11 +343,11 @@
                         <div class="flex justify-between items-center">
                             <div>
                                 <p class="text-red-500 font-semibold">Meia: R$ 35,00</p>
-                                <p class="text-red-500 font-semibold">Completa: R$ 40,00</p>
+                                <p class="text-red-500 font-semibold">Completa: R$ 49,90</p>
                             </div>
                             <div class="flex space-x-2">
                                 <button onclick="addToCart('Batata Americana - Meia', 35.00)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Meia</button>
-                                <button onclick="addToCart('Batata Americana - Completa', 40.00)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Completa</button>
+                                <button onclick="addToCart('Batata Americana - Completa', 49.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Completa</button>
                             </div>
                         </div>
                     </div>
@@ -366,12 +366,12 @@
                         <h3 class="text-xl font-bold text-white mb-2">SURUBIM À PALITO</h3>
                         <div class="flex justify-between items-center">
                             <div>
-                                <p class="text-red-500 font-semibold">Meia: R$ 79,90</p>
-                                <p class="text-red-500 font-semibold">Inteira: R$ 99,90</p>
+                                <p class="text-red-500 font-semibold">Meia: R$ 00,00</p>
+                                <p class="text-red-500 font-semibold">Inteira: R$ 00,00</p>
                             </div>
                             <div class="flex space-x-2">
-                                <button onclick="addToCart('SURUBIM À PALITO - Meia', 79.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Meia</button>
-                                <button onclick="addToCart('SURUBIM À PALITO - Inteira', 99.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Inteira</button>
+                                <button onclick="addToCart('SURUBIM À PALITO - Meia', 00.00)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Meia</button>
+                                <button onclick="addToCart('SURUBIM À PALITO - Inteira', 00.00)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Inteira</button>
                             </div>
                         </div>
                     </div>
@@ -383,12 +383,12 @@
                         <h3 class="text-xl font-bold text-white mb-2">PEIXE SEM ESPINHO (traíra, curimată ou tilápia)</h3>
                         <div class="flex justify-between items-center">
                             <div>
-                                <p class="text-red-500 font-semibold">Meia: R$ 69,90</p>
-                                <p class="text-red-500 font-semibold">Inteira: R$ 79,90</p>
+                                <p class="text-red-500 font-semibold">Meia: R$ 79,90</p>
+                                <p class="text-red-500 font-semibold">Inteira: R$ 89,90</p>
                             </div>
                             <div class="flex space-x-2">
-                                <button onclick="addToCart('PEIXE SEM ESPINHO - Meia', 69.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Meia</button>
-                                <button onclick="addToCart('PEIXE SEM ESPINHO - Inteira', 79.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Inteira</button>
+                                <button onclick="addToCart('PEIXE SEM ESPINHO - Meia', 79.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Meia</button>
+                                <button onclick="addToCart('PEIXE SEM ESPINHO - Inteira', 89.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Inteira</button>
                             </div>
                         </div>
                     </div>
@@ -464,14 +464,14 @@
                         <h3 class="text-xl font-bold text-white mb-2">LOMBO SUÍNO</h3>
                         <div class="flex justify-between items-center">
                             <div>
-                                <p class="text-red-500 font-semibold">300g: R$ 42,00</p>
-                                <p class="text-red-500 font-semibold">500g: R$ 65,00</p>
-                                <p class="text-red-500 font-semibold">1Kg: R$ 130,00</p>
+                                <p class="text-red-500 font-semibold">300g: R$ 00,00</p>
+                                <p class="text-red-500 font-semibold">500g: R$ 00,00</p>
+                                <p class="text-red-500 font-semibold">1Kg: R$ 00,00</p>
                             </div>
                             <div class="flex flex-col space-y-2">
-                                <button onclick="addToCart('LOMBO SUÍNO - 300g', 42.00)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">300g</button>
-                                <button onclick="addToCart('LOMBO SUÍNO - 500g', 65.00)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">500g</button>
-                                <button onclick="addToCart('LOMBO SUÍNO - 1Kg', 130.00)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">1Kg</button>
+                                <button onclick="addToCart('LOMBO SUÍNO - 300g', 00.00)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">300g</button>
+                                <button onclick="addToCart('LOMBO SUÍNO - 500g', 00.00)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">500g</button>
+                                <button onclick="addToCart('LOMBO SUÍNO - 1Kg', 00.00)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">1Kg</button>
                             </div>
                         </div>
                     </div>
@@ -517,10 +517,10 @@
                         <h3 class="text-xl font-bold text-white mb-2">PÃO DE ALHO (Unidade)</h3>
                         <div class="flex justify-between items-center">
                             <div>
-                                <p class="text-red-500 font-semibold">R$ 7,50</p>
+                                <p class="text-red-500 font-semibold">R$ 12,00</p>
                             </div>
                             <div>
-                                <button onclick="addToCart('PÃO DE ALHO (Unidade)', 7.50)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Adicionar</button>
+                                <button onclick="addToCart('PÃO DE ALHO (Unidade)', 12.00)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Adicionar</button>
                             </div>
                         </div>
                     </div>
@@ -540,14 +540,14 @@
                         <p class="text-gray-400 mb-4">(mussarela, presunto, calabresa, cebola, azeitona, pimentão, tomate e orégano)</p>
                         <div class="flex justify-between items-center">
                             <div>
-                                <p class="text-red-500 font-semibold">Pequena: R$ 40,90</p>
-                                <p class="text-red-500 font-semibold">Grande: R$ 54,90</p>
-                                <p class="text-red-500 font-semibold">Gigante: R$ 66,90</p>
+                                <p class="text-red-500 font-semibold">Pequena: R$ 42,90</p>
+                                <p class="text-red-500 font-semibold">Grande: R$ 59,90</p>
+                                <p class="text-red-500 font-semibold">Gigante: R$ 79,90</p>
                             </div>
                             <div class="flex flex-col space-y-2">
-                                <button onclick="addToCart('Pizza MINEIRA - Pequena', 40.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Pequena</button>
-                                <button onclick="addToCart('Pizza MINEIRA - Grande', 54.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Grande</button>
-                                <button onclick="addToCart('Pizza MINEIRA - Gigante', 66.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Gigante</button>
+                                <button onclick="addToCart('Pizza MINEIRA - Pequena', 42.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Pequena</button>
+                                <button onclick="addToCart('Pizza MINEIRA - Grande', 59.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Grande</button>
+                                <button onclick="addToCart('Pizza MINEIRA - Gigante', 79.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Gigante</button>
                             </div>
                         </div>
                     </div>
@@ -560,14 +560,14 @@
                         <p class="text-gray-400 mb-4">(mussarela, presunto, calabresa, cebola, pimentão, tomate, azeitona, milho verde, uva passas e orégano)</p>
                         <div class="flex justify-between items-center">
                             <div>
-                                <p class="text-red-500 font-semibold">Pequena: R$ 40,90</p>
-                                <p class="text-red-500 font-semibold">Grande: R$ 54,90</p>
-                                <p class="text-red-500 font-semibold">Gigante: R$ 66,90</p>
+                                <p class="text-red-500 font-semibold">Pequena: R$ 42,90</p>
+                                <p class="text-red-500 font-semibold">Grande: R$ 59,90</p>
+                                <p class="text-red-500 font-semibold">Gigante: R$ 79,90</p>
                             </div>
                             <div class="flex flex-col space-y-2">
-                                <button onclick="addToCart('Pizza MINEIRA ESPECIAL - Pequena', 40.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Pequena</button>
-                                <button onclick="addToCart('Pizza MINEIRA ESPECIAL - Grande', 54.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Grande</button>
-                                <button onclick="addToCart('Pizza MINEIRA ESPECIAL - Gigante', 66.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Gigante</button>
+                                <button onclick="addToCart('Pizza MINEIRA ESPECIAL - Pequena', 42.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Pequena</button>
+                                <button onclick="addToCart('Pizza MINEIRA ESPECIAL - Grande', 59.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Grande</button>
+                                <button onclick="addToCart('Pizza MINEIRA ESPECIAL - Gigante', 79.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Gigante</button>
                             </div>
                         </div>
                     </div>
@@ -580,14 +580,14 @@
                         <p class="text-gray-400 mb-4">(mussarela, peito de frango, presunto, calabresa, bacon, milho verde, azeitona, pimentão, tomate e orégano)</p>
                         <div class="flex justify-between items-center">
                             <div>
-                                <p class="text-red-500 font-semibold">Pequena: R$ 40,90</p>
-                                <p class="text-red-500 font-semibold">Grande: R$ 54,90</p>
-                                <p class="text-red-500 font-semibold">Gigante: R$ 66,90</p>
+                                <p class="text-red-500 font-semibold">Pequena: R$ 42,90</p>
+                                <p class="text-red-500 font-semibold">Grande: R$ 59,90</p>
+                                <p class="text-red-500 font-semibold">Gigante: R$ 79,90</p>
                             </div>
                             <div class="flex flex-col space-y-2">
-                                <button onclick="addToCart('Pizza À MODA - Pequena', 40.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Pequena</button>
-                                <button onclick="addToCart('Pizza À MODA - Grande', 54.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Grande</button>
-                                <button onclick="addToCart('Pizza À MODA - Gigante', 66.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Gigante</button>
+                                <button onclick="addToCart('Pizza À MODA - Pequena', 42.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Pequena</button>
+                                <button onclick="addToCart('Pizza À MODA - Grande', 59.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Grande</button>
+                                <button onclick="addToCart('Pizza À MODA - Gigante', 79.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Gigante</button>
                             </div>
                         </div>
                     </div>
@@ -600,14 +600,14 @@
                         <p class="text-gray-400 mb-4">(mussarela, presunto, uva passas, azeitona e orégano)</p>
                         <div class="flex justify-between items-center">
                             <div>
-                                <p class="text-red-500 font-semibold">Pequena: R$ 40,90</p>
-                                <p class="text-red-500 font-semibold">Grande: R$ 54,90</p>
-                                <p class="text-red-500 font-semibold">Gigante: R$ 66,90</p>
+                                <p class="text-red-500 font-semibold">Pequena: R$ 42,90</p>
+                                <p class="text-red-500 font-semibold">Grande: R$ 59,90</p>
+                                <p class="text-red-500 font-semibold">Gigante: R$ 79,90</p>
                             </div>
                             <div class="flex flex-col space-y-2">
-                                <button onclick="addToCart('Pizza FESTIVA - Pequena', 40.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Pequena</button>
-                                <button onclick="addToCart('Pizza FESTIVA - Grande', 54.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Grande</button>
-                                <button onclick="addToCart('Pizza FESTIVA - Gigante', 66.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Gigante</button>
+                                <button onclick="addToCart('Pizza FESTIVA - Pequena', 42.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Pequena</button>
+                                <button onclick="addToCart('Pizza FESTIVA - Grande', 59.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Grande</button>
+                                <button onclick="addToCart('Pizza FESTIVA - Gigante', 79.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Gigante</button>
                             </div>
                         </div>
                     </div>
@@ -620,14 +620,14 @@
                         <p class="text-gray-400 mb-4">(molho à bolonhesa, mussarela, palmito, peito de frango e orégano)</p>
                         <div class="flex justify-between items-center">
                             <div>
-                                <p class="text-red-500 font-semibold">Pequena: R$ 40,90</p>
-                                <p class="text-red-500 font-semibold">Grande: R$ 54,90</p>
-                                <p class="text-red-500 font-semibold">Gigante: R$ 66,90</p>
+                                <p class="text-red-500 font-semibold">Pequena: R$ 42,90</p>
+                                <p class="text-red-500 font-semibold">Grande: R$ 59,90</p>
+                                <p class="text-red-500 font-semibold">Gigante: R$ 79,90</p>
                             </div>
                             <div class="flex flex-col space-y-2">
-                                <button onclick="addToCart('Pizza PEITO DE FRANGO - Pequena', 40.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Pequena</button>
-                                <button onclick="addToCart('Pizza PEITO DE FRANGO - Grande', 54.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Grande</button>
-                                <button onclick="addToCart('Pizza PEITO DE FRANGO - Gigante', 66.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Gigante</button>
+                                <button onclick="addToCart('Pizza PEITO DE FRANGO - Pequena', 42.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Pequena</button>
+                                <button onclick="addToCart('Pizza PEITO DE FRANGO - Grande', 59.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Grande</button>
+                                <button onclick="addToCart('Pizza PEITO DE FRANGO - Gigante', 79.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Gigante</button>
                             </div>
                         </div>
                     </div>
@@ -640,14 +640,14 @@
                         <p class="text-gray-400 mb-4">(mussarela, peito de frango e catupiry)</p>
                         <div class="flex justify-between items-center">
                             <div>
-                                <p class="text-red-500 font-semibold">Pequena: R$ 40,90</p>
-                                <p class="text-red-500 font-semibold">Grande: R$ 54,90</p>
-                                <p class="text-red-500 font-semibold">Gigante: R$ 66,90</p>
+                                <p class="text-red-500 font-semibold">Pequena: R$ 42,90</p>
+                                <p class="text-red-500 font-semibold">Grande: R$ 59,90</p>
+                                <p class="text-red-500 font-semibold">Gigante: R$ 79,90</p>
                             </div>
                             <div class="flex flex-col space-y-2">
-                                <button onclick="addToCart('Pizza PEITO DE FRANGO E CATUPIRY - Pequena', 40.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Pequena</button>
-                                <button onclick="addToCart('Pizza PEITO DE FRANGO E CATUPIRY - Grande', 54.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Grande</button>
-                                <button onclick="addToCart('Pizza PEITO DE FRANGO E CATUPIRY - Gigante', 66.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Gigante</button>
+                                <button onclick="addToCart('Pizza PEITO DE FRANGO E CATUPIRY - Pequena', 42.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Pequena</button>
+                                <button onclick="addToCart('Pizza PEITO DE FRANGO E CATUPIRY - Grande', 59.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Grande</button>
+                                <button onclick="addToCart('Pizza PEITO DE FRANGO E CATUPIRY - Gigante', 79.90)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Gigante</button>
                             </div>
                         </div>
                     </div>
@@ -667,33 +667,33 @@
                         <div class="grid grid-cols-2 gap-2">
                             <div>
                                 <p class="text-gray-400">2 Litros</p>
-                                <p class="text-red-500 font-semibold">R$ 15,00</p>
-                                <button onclick="addToCart('Refrigerante 2 Litros', 15.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs mt-1">Add</button>
+                                <p class="text-red-500 font-semibold">R$ 18,00</p>
+                                <button onclick="addToCart('Refrigerante 2 Litros', 18.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs mt-1">Add</button>
                             </div>
                             <div>
                                 <p class="text-gray-400">1 Litro</p>
-                                <p class="text-red-500 font-semibold">R$ 9,00</p>
-                                <button onclick="addToCart('Refrigerante 1 Litro', 9.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs mt-1">Add</button>
+                                <p class="text-red-500 font-semibold">R$ 12,00</p>
+                                <button onclick="addToCart('Refrigerante 1 Litro', 12.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs mt-1">Add</button>
                             </div>
                             <div>
                                 <p class="text-gray-400">600 ml</p>
-                                <p class="text-red-500 font-semibold">R$ 8,00</p>
-                                <button onclick="addToCart('Refrigerante 600 ml', 8.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs mt-1">Add</button>
+                                <p class="text-red-500 font-semibold">R$ 9,00</p>
+                                <button onclick="addToCart('Refrigerante 600 ml', 9.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs mt-1">Add</button>
                             </div>
                             <div>
                                 <p class="text-gray-400">KS</p>
-                                <p class="text-red-500 font-semibold">R$ 5,00</p>
-                                <button onclick="addToCart('Refrigerante KS', 5.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs mt-1">Add</button>
+                                <p class="text-red-500 font-semibold">R$ 6,00</p>
+                                <button onclick="addToCart('Refrigerante KS', 6.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs mt-1">Add</button>
                             </div>
                             <div>
                                 <p class="text-gray-400">Lata</p>
-                                <p class="text-red-500 font-semibold">R$ 5,00</p>
-                                <button onclick="addToCart('Refrigerante Lata', 5.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs mt-1">Add</button>
+                                <p class="text-red-500 font-semibold">R$ 7,00</p>
+                                <button onclick="addToCart('Refrigerante Lata', 7.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs mt-1">Add</button>
                             </div>
                             <div>
                                 <p class="text-gray-400">220 ml</p>
-                                <p class="text-red-500 font-semibold">R$ 5,00</p>
-                                <button onclick="addToCart('Refrigerante 220 ml', 5.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs mt-1">Add</button>
+                                <p class="text-red-500 font-semibold">R$ 3,00</p>
+                                <button onclick="addToCart('Refrigerante 220 ml', 3.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs mt-1">Add</button>
                             </div>
                         </div>
                     </div>
@@ -711,23 +711,23 @@
                             </div>
                             <div>
                                 <p class="text-gray-400">Água Sem Gás 500 ml</p>
-                                <p class="text-red-500 font-semibold">R$ 5,00</p>
-                                <button onclick="addToCart('Água Sem Gás 500 ml', 5.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs mt-1">Add</button>
+                                <p class="text-red-500 font-semibold">R$ 3,00</p>
+                                <button onclick="addToCart('Água Sem Gás 500 ml', 3.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs mt-1">Add</button>
                             </div>
                             <div>
                                 <p class="text-gray-400">Água Mineral 1,5 Litros</p>
-                                <p class="text-red-500 font-semibold">R$ 5,00</p>
-                                <button onclick="addToCart('Água Mineral 1,5 Litros', 5.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs mt-1">Add</button>
+                                <p class="text-red-500 font-semibold">R$ 7,00</p>
+                                <button onclick="addToCart('Água Mineral 1,5 Litros', 7.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs mt-1">Add</button>
                             </div>
                             <div>
                                 <p class="text-gray-400">Água Tônica</p>
-                                <p class="text-red-500 font-semibold">R$ 5,00</p>
-                                <button onclick="addToCart('Água Tônica', 5.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs mt-1">Add</button>
+                                <p class="text-red-500 font-semibold">R$ 6,00</p>
+                                <button onclick="addToCart('Água Tônica', 6.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs mt-1">Add</button>
                             </div>
                             <div>
                                 <p class="text-gray-400">H2OH!</p>
-                                <p class="text-red-500 font-semibold">R$ 5,00</p>
-                                <button onclick="addToCart('H2OH!', 5.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs mt-1">Add</button>
+                                <p class="text-red-500 font-semibold">R$ 8,00</p>
+                                <button onclick="addToCart('H2OH!', 8.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs mt-1">Add</button>
                             </div>
                         </div>
                     </div>
@@ -739,13 +739,13 @@
                         <h3 class="text-xl font-bold text-white mb-2">Sucos</h3>
                         <p class="text-gray-400 mb-2">Suco Natural (todos por R$ 8,00):</p>
                         <div class="grid grid-cols-2 gap-2 mb-3">
-                            <button onclick="addToCart('Suco Natural - Laranja', 8.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs">Laranja</button>
-                            <button onclick="addToCart('Suco Natural - Abacaxi', 8.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs">Abacaxi</button>
-                            <button onclick="addToCart('Suco Natural - Abacaxi com Hortelã', 8.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs">Abacaxi c/ Hortelã</button>
-                            <button onclick="addToCart('Suco Natural - Maracujá', 8.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs">Maracujá</button>
-                            <button onclick="addToCart('Suco Natural - Tamarindo', 8.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs">Tamarindo</button>
-                            <button onclick="addToCart('Suco Natural - Acerola', 8.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs">Acerola</button>
-                            <button onclick="addToCart('Suco Natural - Suco Mais', 8.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs">Suco Mais</button>
+                            <button onclick="addToCart('Suco Natural - Laranja', 10.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs">Laranja</button>
+                            <button onclick="addToCart('Suco Natural - Abacaxi', 10.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs">Abacaxi</button>
+                            <button onclick="addToCart('Suco Natural - Abacaxi com Hortelã', 10.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs">Abacaxi c/ Hortelã</button>
+                            <button onclick="addToCart('Suco Natural - Maracujá', 10.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs">Maracujá</button>
+                            <button onclick="addToCart('Suco Natural - Tamarindo', 10.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs">Tamarindo</button>
+                            <button onclick="addToCart('Suco Natural - Acerola', 10.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs">Acerola</button>
+                            <button onclick="addToCart('Suco Natural - Suco Del valle', 6.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs">Suco Mais</button>
                         </div>
                         
                         <p class="text-gray-400 mb-1">Limonada Suíça: R$ 10,00</p>
@@ -753,12 +753,12 @@
                         
                         <p class="text-gray-400 mb-1">Jarras:</p>
                         <div class="flex space-x-2 mb-3">
-                            <button onclick="addToCart('Jarra de Suco - 1 Jarra', 25.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs">1 Jarra</button>
-                            <button onclick="addToCart('Jarra de Suco - 1/2 Jarra', 15.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs">1/2 Jarra</button>
+                            <button onclick="addToCart('Jarra de Suco - 1 Jarra', 30.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs">1 Jarra</button>
+                            <button onclick="addToCart('Jarra de Suco - 1/2 Jarra', 23.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs">1/2 Jarra</button>
                         </div>
                         
-                        <p class="text-gray-400 mb-1">Suco Detox (Abacaxi, Hortelã, Gengibre e Couve): R$ 10,00</p>
-                        <button onclick="addToCart('Suco Detox', 10.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs">Add</button>
+                        <p class="text-gray-400 mb-1">Suco Detox (Abacaxi, Hortelã, Gengibre e Couve): R$ 00,00</p>
+                        <button onclick="addToCart('Suco Detox', 00.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs">Add</button>
                     </div>
                 </div>
                 
@@ -779,13 +779,13 @@
                             </div>
                             <div>
                                 <p class="text-gray-400">Antarctica Original 600ml</p>
-                                <p class="text-red-500 font-semibold">R$ 11,50</p>
-                                <button onclick="addToCart('Antarctica Original 600ml', 11.50)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs mt-1">Add</button>
+                                <p class="text-red-500 font-semibold">R$ 12,00</p>
+                                <button onclick="addToCart('Antarctica Original 600ml', 12.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs mt-1">Add</button>
                             </div>
                             <div>
-                                <p class="text-gray-400">Sub Zero 600ml</p>
-                                <p class="text-red-500 font-semibold">R$ 7,50</p>
-                                <button onclick="addToCart('Sub Zero 600ml', 7.50)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs mt-1">Add</button>
+                                <p class="text-gray-400">Heineken 600ml</p>
+                                <p class="text-red-500 font-semibold">R$ 15,00</p>
+                                <button onclick="addToCart('Heineken 600ml', 15.00)" class="bg-red-700 hover:bg-red-800 text-white px-2 py-1 rounded text-xs mt-1">Add</button>
                             </div>
                             <div>
                                 <p class="text-gray-400">Cerveja Lata</p>
@@ -814,10 +814,10 @@
                         <h3 class="text-xl font-bold text-white mb-2">Pudim de Leite Condensado</h3>
                         <div class="flex justify-between items-center">
                             <div>
-                                <p class="text-red-500 font-semibold">R$ 6,00</p>
+                                <p class="text-red-500 font-semibold">R$ 10,00</p>
                             </div>
                             <div>
-                                <button onclick="addToCart('Pudim de Leite Condensado', 6.00)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Adicionar</button>
+                                <button onclick="addToCart('Pudim de Leite Condensado', 10.00)" class="bg-red-700 hover:bg-red-800 text-white px-3 py-1 rounded text-sm">Adicionar</button>
                             </div>
                         </div>
                     </div>
